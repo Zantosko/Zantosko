@@ -1,4 +1,4 @@
-## Howdy 🤠 
+## Howdy 🤠
 
 My name is <a href="https://zachantosko.com/">Zachary Antosko</a>. I'm a software engineer with strong passion for both frontend and backend development. I enjoy solving complex problems and am always striving improve my skill set. 
 
