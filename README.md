@@ -3,7 +3,7 @@
 My name is <a href="https://zachantosko.com/">Zachary Antosko</a>. I'm a software engineer with strong passion for both frontend and backend development. I enjoy solving complex problems and am always striving improve my skill set. In my free time when I'm not coding, you can find me either lifting weights 🏋 or catching up on a good book 📖.
 
 **A Little Bit About Me**
-- 🌱 I’m currently learning React, Redux, Node, and PostgreSQL
+- 🌱 I’m currently learning TypeScript
 - 📫 How to reach me: zachary.antosko@gmail.com
 - 🔑 Connect with me on [LinkedIn](https://www.linkedin.com/in/zachary-antosko-13b105162/).
 - 📄 [Resume](https://docs.google.com/document/d/1lXv4X-Vi7KIKJTvSZQjpXF3wQLzC-3XDs6QOjsxjUdI/edit).
